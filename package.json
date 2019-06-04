@@ -1,0 +1,22 @@
+{
+  "name": "personal-website-spa",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewJWoolley/personal-website-spa.git"
+  },
+  "author": "Matthew Joseph Woolley <matthewjwoolley@gmail.com> (https://matthewjwoolley.com)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/MatthewJWoolley/personal-website-spa/issues"
+  },
+  "homepage": "https://github.com/MatthewJWoolley/personal-website-spa#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
